@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Pop controller"; ObjectID = "4WT-Gz-xqA"; */
+"4WT-Gz-xqA.normalTitle" = "Pop controller";
+
+/* Class = "UILabel"; text = "this is me"; ObjectID = "HAn-Jn-IWS"; */
+"HAn-Jn-IWS.text" = "this is me";
+
+/* Class = "UITextView"; text = "abc"; ObjectID = "baI-Kg-8lg"; */
+"baI-Kg-8lg.text" = "abc";
+
+/* Class = "UIButton"; normalTitle = "Push controoler"; ObjectID = "fmg-mf-MxV"; */
+"fmg-mf-MxV.normalTitle" = "Push controoler";
+
+/* Class = "UIButton"; normalTitle = "Push controller"; ObjectID = "ulG-Zf-WUD"; */
+"ulG-Zf-WUD.normalTitle" = "Push controller";
